@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "serverless": "^1.59.3"
+  },
+  "name": "lambda-serverless-coin-flip"
+}
